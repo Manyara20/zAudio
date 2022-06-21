@@ -1,8 +1,8 @@
-# AudioJs
+# zAaudio
 
 <section align="center">
 
-  ![demo](https://raw.github.com/Manyara20/zAudio/blob/main/assets/demo.png)
+  
   
   **A better template for playing music**
 
@@ -37,4 +37,4 @@ git@github.com:Manyara20/zAudio.git
 </html>
 ```
 
-### [Demo](https://github.com/Manyara20/zAudio/blob/main/assets/music.mp3)
+
