@@ -2,7 +2,7 @@
 
 <section align="center">
 
-  ![demo](https://raw.githubusercontent.com/msfpt/AudioJs/main/assets/demo.png)
+  ![demo](https://raw.https://github.com/Manyara20/zAudio/blob/main/assets/demo.png)
   
   **A better template for playing music**
 
@@ -13,7 +13,7 @@
 ## Installation
 
 ```bash
-git clone https://github.com/msfpt/AudioJs
+git@github.com:Manyara20/zAudio.git
 ```
 
 <br>
@@ -37,4 +37,4 @@ git clone https://github.com/msfpt/AudioJs
 </html>
 ```
 
-### [Demo](https://msfpt.github.io/AudioJs)
+### [Demo](https://github.com/Manyara20/zAudio/blob/main/assets/music.mp3)
