@@ -2,7 +2,7 @@
 
 <section align="center">
 
-  ![demo](https://raw.https://github.com/Manyara20/zAudio/blob/main/assets/demo.png)
+  ![demo](https://raw.github.com/Manyara20/zAudio/blob/main/assets/demo.png)
   
   **A better template for playing music**
 
