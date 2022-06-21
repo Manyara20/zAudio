@@ -26,7 +26,7 @@ git@github.com:Manyara20/zAudio.git
     <meta charset="utf-8">
     <title>MsfPt :: AudioJs</title>
     <!-- ... -->
-    <script type="text/javascript" defer="true" src="https://msfpt.github.io/AudioJs/audio.min.js"></script>
+    <script type="text/javascript" defer="true" src="git@github.com:Manyara20/zAudio.git"></script>
     <!-- ... -->
   </head>
   <body>
