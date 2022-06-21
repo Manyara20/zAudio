@@ -1,4 +1,4 @@
-/* Coded By https://github.com/msfpt */
+/* Coded By https://github.com/Manyara20/zAudio */
 
 let audios = document.querySelectorAll('audio[AudioJs]');
 
@@ -43,7 +43,7 @@ for (let i = 0; i < audios.length; i++) {
     box_audio.setAttribute('id', 'audio');
     box_audio.classList.add('AudioJs');
 
-    box_audio.innerHTML = '<!-- https://github.com/msfpt -->'
+    box_audio.innerHTML = '<!-- https://github.com/Manyara20 -->'
       + '<nav>'
         + '<i class="fas fa-play icon play"></i>'
         + '<span class="audiotimerY">00:00</span>'
